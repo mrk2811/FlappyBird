@@ -1,0 +1,14 @@
+﻿  FlappyBird.cpp
+C:\Users\Rehan\source\repos\FlappyBird\FlappyBird\olcConsoleGameEngineGL.h(1174,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Rehan\source\repos\FlappyBird\FlappyBird\olcConsoleGameEngineGL.h(1741,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Rehan\source\repos\FlappyBird\FlappyBird\olcConsoleGameEngineGL.h(1838,1): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+C:\Users\Rehan\source\repos\FlappyBird\FlappyBird\FlappyBird.cpp(115,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rehan\source\repos\FlappyBird\FlappyBird\FlappyBird.cpp(114,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rehan\source\repos\FlappyBird\FlappyBird\FlappyBird.cpp(120,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rehan\source\repos\FlappyBird\FlappyBird\FlappyBird.cpp(119,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rehan\source\repos\FlappyBird\FlappyBird\FlappyBird.cpp(145,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rehan\source\repos\FlappyBird\FlappyBird\FlappyBird.cpp(146,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rehan\source\repos\FlappyBird\FlappyBird\FlappyBird.cpp(150,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rehan\source\repos\FlappyBird\FlappyBird\FlappyBird.cpp(151,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rehan\source\repos\FlappyBird\FlappyBird\FlappyBird.cpp(161): warning C4715: 'FlappyBird::OnUserUpdate': not all control paths return a value
+  FlappyBird.vcxproj -> C:\Users\Rehan\source\repos\FlappyBird\x64\Debug\FlappyBird.exe
